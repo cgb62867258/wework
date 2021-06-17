@@ -1,0 +1,25 @@
+{
+  "name": "eb/wework",
+  "type": "library",
+  "description": "wework for laravel",
+  "keywords": [
+    "taobao",
+    "laravel",
+    "sdk",
+    "api"
+  ],
+  "homepage": "https://github.com/zhangdeze/tbktop",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "cgb",
+      "email": "cgb62867258@sina.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "illuminate/support": ">=5.0",
+    "graham-campbell/manager": "^4.6.0",
+    "ext-mcrypt": "*"
+  }
+}
